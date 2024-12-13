@@ -51,7 +51,7 @@ To view or install this portfolio, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/akimits25/portfolio.git
+    git clone https://github.com/akimits25/Portfolio.git
     ```
 2. :desktop_computer: **Open this [Portfolio](https://akimits25.github.io/Portfolio/)** in your browser to view the portfolio.
 
